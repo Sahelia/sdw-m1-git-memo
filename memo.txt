@@ -13,4 +13,7 @@ description : fait le bilan de l'état actuel de notre projet git.
 =========================================
 commande : git add <dossier ou fichier>
 
-description : 
+description : (souvent, on tape : git add .) permet d'indiquer à git d'ajouter les modifs ciblées au prochain commit.
+Les modifs seront passés de la zone "rouge" (unstagged), qui ne sont pas prises en compte lors d'un commit, à la zone verte (stagged). Quand une modif est dans la zone "verte" on peut faire un commit.
+En gros, c'est un "attention on va sauvegarder, prépare toi !"
+=========================================
