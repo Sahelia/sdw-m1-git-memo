@@ -1,0 +1,6 @@
+commande : git init 
+
+Description : initialiser un projet git dans le dossier dans lequel on se situe
+
+========================================
+
