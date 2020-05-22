@@ -3,4 +3,14 @@ commande : git init
 Description : initialiser un projet git dans le dossier dans lequel on se situe
 
 ========================================
+commande : git status
 
+description : fait le bilan de l'état actuel de notre projet git.
+- indique tjrs que l'on est sur la branche "master
+- en rouge : les modifs qui ne seront pas enregistrées
+- en vert : les modifs enregistrées
+
+=========================================
+commande : git add <dossier ou fichier>
+
+description : 
