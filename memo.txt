@@ -17,3 +17,6 @@ description : (souvent, on tape : git add .) permet d'indiquer à git d'ajouter 
 Les modifs seront passés de la zone "rouge" (unstagged), qui ne sont pas prises en compte lors d'un commit, à la zone verte (stagged). Quand une modif est dans la zone "verte" on peut faire un commit.
 En gros, c'est un "attention on va sauvegarder, prépare toi !"
 =========================================
+commande : git commit -m <message>
+
+description : la commande d'enregistrement des modifs. Une fois les modifs ajoutées avec "git add" la commande commit permet d'enregistrer définitivement nos modifs, en y attachant un msg personnalisé censé décrire les modifs effectuées. 
